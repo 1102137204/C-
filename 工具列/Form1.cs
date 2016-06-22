@@ -83,7 +83,7 @@ namespace 工具列
 
         private void textBoxPurpleToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.BackColor = Color.Blue;
+            this.BackColor = Color.SkyBlue;
         }
     }
 }
